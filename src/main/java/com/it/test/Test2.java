@@ -9,6 +9,6 @@ public class Test2 {
         System.out.println("a111111111");
 
         String a = "marster";
-        String c = "ccccccc";
+
     }
 }
