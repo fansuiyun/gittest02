@@ -8,5 +8,7 @@ public class Test2 {
         String age = "13";
         System.out.println("a111111111");
 
+        String a = "marster";
+
     }
 }
