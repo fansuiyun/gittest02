@@ -10,5 +10,6 @@ public class Test2 {
 
         String a = "marster";
         String ccc = "ccccccc";
+        int acc = 12;
     }
 }
